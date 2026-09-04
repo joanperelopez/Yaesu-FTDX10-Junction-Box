@@ -28,6 +28,7 @@ Access to the Junction Box
 As many of us know, our QTH is affected by local QRM. For this reason, I’ve acquired a QRM Eliminator to try to mitigate the effects of the noise. This device requires a PTT signal from the transceiver in order to switch between transmit and receive. The FTDX10 provides this signal through the RTTY/DATA connector.
 
 ## Providing an audio output for a CW decoder
+I needed an audio output for the CW decoder built into my keyer. This output is not controlled by the volume, and therefore provides greater stability than, for example, the headphone output.
 
 
 ## Using a push button for the external antenna tuner
@@ -36,3 +37,7 @@ My antenna system includes an external automatic tuner to adjust the SWR on each
 Every time I wanted to change bands, I had to reduce the power to 20 W and then increase it again to 100 W. With this interface, I’ve managed to make the FTDX10 transmit a carrier each time I press the tune button on the junction box, with a power level that I can adjust using the potentiometer that controls the ALC—saving me quite a bit of work and avoiding possible mistakes.
 
 The power reduction via the ALC only takes place during the tuning process; afterwards, the transceiver returns to transmitting at the preset power level.
+
+
+## Note:
+The potentiometer must be of 50K instead of 1M. (The images are before this modification).
