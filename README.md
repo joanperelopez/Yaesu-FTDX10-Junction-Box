@@ -17,13 +17,13 @@ This box that I’ve built allows me to connect several devices:
 
 
 
-  
+ #### Hardware of the Junction Box 
 <img width="1536" height="2048" alt="WhatsApp Image 2026-09-04 at 17 44 19" src="https://github.com/user-attachments/assets/af8d55ed-0577-46f6-85de-657dd0583b41" />
-Hardware of the Junction Box
 
-  
+
+#### Access to the Junction Box  
 <img width="2048" height="1536" alt="WhatsApp Image 2026-09-04 at 17 44 18 (1)" src="https://github.com/user-attachments/assets/0d365a3d-c8cf-4dd2-a3ce-4e1a1619c077" />
-Access to the Junction Box
+
   
 
 ## Activating the PTT for the QRM eliminator
