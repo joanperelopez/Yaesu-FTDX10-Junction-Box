@@ -39,5 +39,7 @@ Every time I wanted to change bands, I had to reduce the power to 20 W and then 
 The power reduction via the ALC only takes place during the tuning process; afterwards, the transceiver returns to transmitting at the preset power level.
 
 
-## Note:
+## Notes:
 The potentiometer must be of 50K instead of 1M. (The images are before this modification).
+The battery discharge current only occurs during the external tuner’s tuning process; therefore, I expect its lifetime will be several years.
+
