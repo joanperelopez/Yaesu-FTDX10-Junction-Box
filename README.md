@@ -17,3 +17,10 @@ This box that I’ve built allows me to connect several devices:
 <img width="1536" height="2048" alt="WhatsApp Image 2026-09-04 at 17 44 19" src="https://github.com/user-attachments/assets/af8d55ed-0577-46f6-85de-657dd0583b41" />
 
 <img width="2048" height="1536" alt="WhatsApp Image 2026-09-04 at 17 44 18 (1)" src="https://github.com/user-attachments/assets/0d365a3d-c8cf-4dd2-a3ce-4e1a1619c077" />
+
+
+##Activating the PTT for the QRM eliminator
+
+##Providing an audio output for a CW decoder
+
+##Using a push button for the external antenna tuner
