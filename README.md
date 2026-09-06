@@ -6,7 +6,7 @@ Radio amateurs, especially those of us who enjoy building our own hardware, some
 
 In the past, I acquired a Yaesu FTDX10. This transceiver has many connectors on the rear panel that allow interfacing with other devices, but the issue is that it’s often not just a simple pin-to-pin connection — additional electronic components are needed.
 
-As can be seen in the images, on one side of the box there are two cables that connect to the FTDX10 via 10-pin and 6-pin *mini-DIN* connectors, respectively. On the opposite side of the box are the connectors for the external devices.
+As can be seen in the images, on one side of the box there are two cables that connect to the FTDX10 via 10-pin and 6-pin *mini-DIN* connectors, respectively. On the opposite side of the box are the connectors for the external devices (Different from each other to avoid mistakes).
 
 This box that I’ve built allows me to connect several devices:
 
