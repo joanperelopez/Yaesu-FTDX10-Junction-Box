@@ -13,8 +13,7 @@ This box that I’ve built allows me to connect several devices:
 * Using a push button for the external antenna tuner.
 
 #### Schematic of the Junction Box
-<img width="2048" height="1536" alt="WhatsApp Image 2026-09-04 at 17 44 18" src="https://github.com/user-attachments/assets/2ded80be-8ecf-44db-84f9-314eefaa9b52" />
-
+<img width="2048" height="1536" alt="WhatsApp Image 2026-09-05 at 17 57 47" src="https://github.com/user-attachments/assets/e9bbbd88-0396-4028-b0e7-2e671ec9331d" />
 
 
  #### Hardware of the Junction Box 
