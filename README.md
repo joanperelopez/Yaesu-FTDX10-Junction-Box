@@ -1,6 +1,5 @@
 
 # Yaesu-FTDX10-Junction-Box
-Interface between rear connectors and some devices
 
 Radio amateurs, especially those of us who enjoy building our own hardware, sometimes need to find solutions to connect our transceiver to other devices.
 
