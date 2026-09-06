@@ -27,7 +27,7 @@ This box that I’ve built allows me to connect several devices:
   
 
 ## Activating the PTT for the QRM eliminator
-As many of us know, our QTH is affected by local QRM. For this reason, I’ve acquired a QRM Eliminator to try to mitigate the effects of the noise. This device requires a PTT signal from the transceiver in order to switch between transmit and receive. The FTDX10 provides this signal through the RTTY/DATA connector.
+As many of us know, our QTH is affected by local QRM. For this reason, I’ve acquired a QRM Eliminator to try to mitigate the effects of the noise. This device requires a PTT signal from the transceiver in order to switch between transmit and receive. The FTDX10 provides this signal through the RTTY/DATA connector (open collector).
 
 ## Providing an audio output for a CW decoder
 I needed an audio output for the CW decoder built into my keyer. This output is not controlled by the volume, and therefore provides greater stability than, for example, the headphone output.
