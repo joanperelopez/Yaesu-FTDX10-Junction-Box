@@ -41,7 +41,7 @@ The power reduction via the ALC only takes place during the tuning process; afte
 
 
 ## Notes:
-The potentiometer must be of 50K instead of 1M. (The images are before this modification).
+The schematic is updated to the last level and therefore not correspond with the images. (The images are before this update).
 
 The battery discharge current only occurs during the external tuner’s tuning process; therefore, I expect its lifetime will be several years.
 
